@@ -16,7 +16,7 @@
   
   <a href="https://komo1048.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   
-  ![komo1048's github stats](https://github-readme-stats.vercel.app/api?username=komo1048&show_icons=true)
+  ![komo1048's GitHub stats](https://github-readme-stats.vercel.app/api?username=komo1048&show_icons=true&theme=radical)
 [![komo1048's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=komo1048&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/komo1048)
   
 </div>
