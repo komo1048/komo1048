@@ -19,4 +19,5 @@
   ![komo1048's GitHub stats](https://github-readme-stats.vercel.app/api?username=komo1048&show_icons=true&theme=radical)
 [![komo1048's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=komo1048&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/komo1048)
   
+  <a href="https://opgc.me/#/users/komo1048" target="_blank"><img src="https://api.opgc.me/githubs/users/komo1048/tag/?theme=basic" /></a>
 </div>
