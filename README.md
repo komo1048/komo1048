@@ -20,4 +20,3 @@
   
   <a href="https://opgc.me/#/users/komo1048" target="_blank"><img src="https://api.opgc.me/githubs/users/komo1048/tag/?theme=basic" /></a>
 </div>
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app
