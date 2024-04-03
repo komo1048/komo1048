@@ -14,9 +14,9 @@
   
   ⭐Github Blog⭐
   
-  <a href="https://komo1048.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <!--<a href="https://komo1048.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   
   ![komo1048's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=komo1048&show_icons=true&theme=radical)
   
-  <a href="https://opgc.me/#/users/komo1048" target="_blank"><img src="https://api.opgc.me/githubs/users/komo1048/tag/?theme=basic" /></a>
+  <a href="https://opgc.me/#/users/komo1048" target="_blank"><img src="https://api.opgc.me/githubs/users/komo1048/tag/?theme=basic" /></a>-->
 </div>
